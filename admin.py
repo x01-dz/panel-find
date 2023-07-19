@@ -1,4 +1,4 @@
-#https://web.facebook.com/x01.dz.hacker
+#https://web.facebook.com/hx01dz
 #coded by x01-Dz
 import urllib.request
 import os
@@ -25,7 +25,7 @@ print('''
 |........... ADMIN WEB FINDER ............        |
 +=================================================+
 |#Author:  x01-Dz                                 |
-|#Contact: https://www.facebook.com/x01.dz.hacker |               
+|#Contact: https://www.facebook.com/hx01dz        |               
 |#This tool is made for pentesting.               |                   
 +=================================================+
 ''')
